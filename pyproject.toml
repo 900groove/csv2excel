@@ -2,7 +2,7 @@
 name = "csv2excel"
 version = "0.1.0"
 description = "Add a short description here"
-dependencies = ["numpy~=1.24.3", "pandas~=2.0.2", "black~=23.3.0", "flake8~=5.0.4"]
+dependencies = ["numpy~=1.24.3", "pandas~=2.0.2", "black~=23.3.0", "flake8~=5.0.4", "openpyxl~=3.1.2"]
 readme = "README.md"
 requires-python = ">= 3.8"
 

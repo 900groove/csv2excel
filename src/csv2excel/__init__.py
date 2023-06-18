@@ -1,2 +1,3 @@
-def hello():
-    return "Hello from csv2excel!"
+from csv2excel.converter import convert
+
+__all__ = [convert]

@@ -14,3 +14,6 @@ build-backend = "hatchling.build"
 managed = true
 [tool.hatch.metadata]
 allow-direct-references = true
+
+[project.scripts]
+csv2excel = "csv2excel.cli:main"
